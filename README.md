@@ -1,1 +1,1 @@
-program flips the screen and changes the color of letters and numbers 
+program flips the screen and changes the color of letters/numbers
